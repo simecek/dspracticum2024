@@ -1,4 +1,4 @@
-# Data Science Practicum 2023
+# Data Science Practicum 2024
 
 Nothing here yet, you can look into materials from last years
 * [2023](https://github.com/simecek/dspracticum2023)
