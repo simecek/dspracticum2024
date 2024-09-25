@@ -8,7 +8,7 @@ While the course is still in development, you can refer to its previous versions
 
 In the upcoming sessions, we will cover topics like *Convolutional Neural Networks*, *Transformers*, *Language models* and *Anomaly detection*. For the exercises and homeworks, we will predominantly use Python but it is ok to start with zero knowledge of Python under the condition you can code in other langugage (e.g. R).
 
-The course is currently at the full capacity (actually, we are already over the limit). I am really sorry but the 2024 version of the course is currently **closed for new registrations**.
+The course is currently at the full capacity (actually, we are already over the limit). I am really sorry but the 2024 version of the course is now **closed for new registrations**.
 
 ## Lessons
 
