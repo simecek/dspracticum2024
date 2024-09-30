@@ -17,3 +17,4 @@
 * Create your own image dataset and make it publicly available (2-5 categories, 100-300 images per category, cca 1000 images in total). Split it to train and test partitions (75% : 25%).
 * Train a simple CNN on your dataset. It is ok if it is not optimal - we will improve it next week.
 * Fill in the links to your GitHub and the dataset into the form (the link is on Slack).
+* See [HW02_hints.ipynb](HW02_hints.ipynb) for hints.
