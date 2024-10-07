@@ -14,3 +14,4 @@ The course is currently at the full capacity (actually, we are already over the 
 
   1. [Lesson 01](lesson01/) (23.9.): Introduction
   1. [Lesson 02](lesson02/) (30.9.): Convolutional Neural Networks
+  1. [Lesson 03](lesson03/) (7.10.): Transfer Learning & Fine-tuning
