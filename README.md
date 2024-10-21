@@ -16,3 +16,4 @@ The course is currently at the full capacity (actually, we are already over the 
   1. [Lesson 02](lesson02/) (30.9.): Convolutional Neural Networks
   1. [Lesson 03](lesson03/) (7.10.): Transfer Learning & Fine-tuning
   1. [Lesson 04](lesson04/) (14.10.): Embeddings, Explainability, Backprogation
+  1. [Lesson 05](lesson05/) (21.10.): HF Datasets, Tokenizers
