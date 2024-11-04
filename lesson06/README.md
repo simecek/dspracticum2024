@@ -2,7 +2,7 @@
 
 **Studio**: https://lightning.ai/simecek/studios/lesson-06~01hv3p406bs3pebc3xm2qwtwz1/
 
-**Slides**: 
+**Slides**: https://docs.google.com/presentation/d/1T6IR09LgYzZArSy8QfHkOmlTKOre3NJjrzzWerX3aRA/edit?usp=sharing
 
 **Videos**:
 
