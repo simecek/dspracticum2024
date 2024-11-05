@@ -21,6 +21,15 @@
 
 **Assignment 06** (due to Nov 11, 8:30 AM):
 
-t.b.d.
+1. Train your small GPT2 model on texts from HW5, you can use [HW6_gpt2_training.ipynb](HW6_gpt2_training.ipynb). Generate some texts using your model.
+1. Let us play a bit. Find some appropriate model on HF Hub and apply it to texts from HW5. You can try, for example,
+
+    * Hate speech detection ([Andrazp/multilingual-hate-speech-robacofi](https://huggingface.co/Andrazp/multilingual-hate-speech-robacofi))
+    * Topic classification or genre classification ([classla/xlm-roberta-base-multilingual-text-genre-classifier](https://huggingface.co/classla/xlm-roberta-base-multilingual-text-genre-classifier))
+    * Sentiment analysis (cardiffnlp/twitter-xlm-roberta-base-sentiment-multilingual) or emotion detection (e.g. Toshifumi/bert-base-multilingual-cased-finetuned-emotion)
+
+Summarize the results and submit them as a Jupyter notebook.
+
+
 
 
