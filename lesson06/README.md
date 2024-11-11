@@ -9,6 +9,7 @@
 * [3Blue1Brown: How large language models work, a visual intro to transformers](https://www.youtube.com/watch?v=wjZofJX0v4M&ab_channel=3Blue1Brown)
 * [3Blue1Brown: Attention in transformers, visually explained](https://www.youtube.com/watch?v=eMlx5fFNoYc&ab_channel=3Blue1Brown)
 * [Andrej Karpathy: Let's build GPT: from scratch, in code, spelled out](https://www.youtube.com/watch?v=kCc8FmEb1nY)
+* [Let’s Build our own GPT Model from Scratch with PyTorch](https://levelup.gitconnected.com/lets-build-our-own-gpt-model-from-scratch-with-pytorch-236a65a1fb54): code + comments for the video
 * [Andrej Karpathy: Let's reproduce GPT-2 (124M)](https://www.youtube.com/watch?v=l8pRSuU81PU)
 * [Stanford: Building Large Language Models (LLMs)](https://www.youtube.com/watch?v=9vM4p9NN0Ts)
 
