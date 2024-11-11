@@ -18,4 +18,4 @@ The course is currently at the full capacity (actually, we are already over the 
   1. [Lesson 04](lesson04/) (14.10.): Embeddings, Explainability, Backprogation
   1. [Lesson 05](lesson05/) (21.10.): 🤗 `datasets`, Tokenizers
   1. [Lesson 06](lesson06/) (4.11.): Transformers, GPT2/3, BERT & friends, 🤗 `transformers`
-  1. [Lesson 07](lesson06/) (11.11.): Large language models, QLoRA, chatgpt API
+  1. [Lesson 07](lesson07/) (11.11.): Large language models, QLoRA, chatgpt API
