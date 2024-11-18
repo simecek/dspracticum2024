@@ -4,6 +4,7 @@
 
 **Slides**: https://docs.google.com/presentation/d/17vShcy7ELWTirqdvcQv8lHm-gHBsaqwpXoQdVgAAaek/edit?usp=sharing
 
+* [ImageNet](https://www.understandingai.org/p/why-the-deep-learning-boom-caught)
 * Transfer Learning & Fine-tuning
 * Data augmentation
 * Learning rate optimization (LR finder, LR scheduling)
