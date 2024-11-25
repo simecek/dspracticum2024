@@ -40,3 +40,14 @@ Some homeworks were exceptional and I want to share them with you.
 * [GPT2 Popisy knih](https://huggingface.co/xrusnack/gpt2_cs_book_descriptions)
 * [GPT2 Harry Potter (sk)](https://huggingface.co/miriamsventova/hp_model)
 * [GPT2 Hašek](https://huggingface.co/michizavrel14/my_small_gpt2_hasek_dataset)
+
+## Assignment 07: Information extraction + Unsloth QLORA
+* [Osobnosti](https://huggingface.co/datasets/kotlarska2/osobnosti_sample100)
+* [Postavy z HP](https://huggingface.co/datasets/miriamsventova/harrypotter-extracted-info)
+* [Shrnutí dopravních zpráv](https://huggingface.co/datasets/TomasHalmazna/CzechTrafficSummary)
+* [Unsloth finetuning of Gemma2 9B](https://colab.research.google.com/drive/1Q45pdlhWy_7Ug5jSsSXJDABauSpr5102?usp=sharing) ([GGUF model](https://huggingface.co/simecek/poznej_povolani) on HuggingFace)
+
+## Assignment 08: Human Enhancers (Cohn) dataset
+
+* [CNN](https://github.com/dominojirotka/M7DataSP/blob/05a50735ba2350c23309e46d22bfceaf31534722/HW_08.ipynb)
+* [DNABERT2](https://github.com/xrusnack/M7DataSP/blob/main/seminar08/dnabert_human_enhancers_cohn_optimization.ipynb) (accuracy on test set: 0.76)
