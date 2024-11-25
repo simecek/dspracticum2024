@@ -50,4 +50,4 @@ Some homeworks were exceptional and I want to share them with you.
 ## Assignment 08: Human Enhancers (Cohn) dataset
 
 * [CNN](https://github.com/dominojirotka/M7DataSP/blob/05a50735ba2350c23309e46d22bfceaf31534722/HW_08.ipynb)
-* [DNABERT2](https://github.com/xrusnack/M7DataSP/blob/main/seminar08/dnabert_human_enhancers_cohn_optimization.ipynb) (accuracy on test set: 0.76)
+* [DNABERT2](https://github.com/xrusnack/M7DataSP/blob/main/seminar08/dnabert_human_enhancers_cohn_optimization.ipynb)

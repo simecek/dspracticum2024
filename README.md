@@ -18,5 +18,10 @@ The course is currently at the full capacity (actually, we are already over the 
   1. [Lesson 04](lesson04/) (14.10.): Embeddings, Explainability, Backprogation
   1. [Lesson 05](lesson05/) (21.10.): 🤗 `datasets`, Tokenizers
   1. [Lesson 06](lesson06/) (4.11.): Transformers, GPT2/3, BERT & friends, 🤗 `transformers`
-  1. [Lesson 07](lesson07/) (11.11.): Large language models, QLoRA, chatgpt API
-  1. [Lesson 08](lesson08/) (18.11.): ML for Biology applications, hyperparameter optimization
+  1. [Lesson 07](lesson07/) (11.11.): Large Language Models, QLoRA, Chatgpt API
+  1. [Lesson 08](lesson08/) (18.11.): ML for Biology Applications, Hyperparameter Optimization
+  1. [Lesson 09](lesson09/) (25.11.): Exploratory Data Analysis
+
+## Homeworks
+
+For the list of selected 🏆 **homeworks**, see [HOMEWORKS.md](HOMEWORKS.md).
