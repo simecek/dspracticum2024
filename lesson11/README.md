@@ -10,6 +10,7 @@
 * sktime [examples](https://www.sktime.net/en/v0.34.0/examples.html)
 * [Forecasting using Foundation Models and sktime](https://medium.com/@benedikt_heidrich/forecasting-using-foundation-models-and-sktime-4d5a09909742)
 * [sktime: python toolbox for time series | PyData Paris, Sep 2024](https://www.youtube.com/watch?v=gS3Sn-j_ooo)
+* Rob J Hyndman and George Athanasopoulos [Forecasting: Principles and Practice](https://otexts.com/fpp3/)  (examples in R)
 
 **Assignment 11** (due to Dec 16):
 
