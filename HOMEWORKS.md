@@ -40,6 +40,7 @@ Some homeworks were exceptional and I want to share them with you.
 * [GPT2 Popisy knih](https://huggingface.co/xrusnack/gpt2_cs_book_descriptions)
 * [GPT2 Harry Potter (sk)](https://huggingface.co/miriamsventova/hp_model)
 * [GPT2 Hašek](https://huggingface.co/michizavrel14/my_small_gpt2_hasek_dataset)
+* [HP Wordclouds](https://github.com/miriamsventova/HW06/blob/main/text_analysis_HW06.ipynb)
 
 ## Assignment 07: Information extraction + Unsloth QLORA
 * [Osobnosti](https://huggingface.co/datasets/kotlarska2/osobnosti_sample100)
@@ -51,3 +52,9 @@ Some homeworks were exceptional and I want to share them with you.
 
 * [CNN](https://github.com/dominojirotka/M7DataSP/blob/05a50735ba2350c23309e46d22bfceaf31534722/HW_08.ipynb)
 * [DNABERT2](https://github.com/xrusnack/M7DataSP/blob/main/seminar08/dnabert_human_enhancers_cohn_optimization.ipynb)
+
+## Assignment 09: Data Exploration
+
+* Students at Czech Universities [[data]](https://www.kaggle.com/datasets/jetakow/graduation-from-czech-universities) [[analysis]](https://github.com/KajzarovaEva/HW_09)
+*  Tick Surveillance Analysis [[data]](https://health.data.ny.gov/Health/Deer-Tick-Surveillance-Nymphs-May-to-Sept-excludin/kibp-u2ip/data) [[analysis]](https://github.com/xrusnack/M7DataSP/blob/main/seminar09/Tick_Surveillance_Analysis.ipynb)
+* Diabetes [[data]](https://www.kaggle.com/code/abdulrahmanmohammed3/diabetes-prediction-system) [[analysis]](https://colab.research.google.com/drive/1YQBb88o9NKHaa9z3LYVnryIx59w930Ac?usp=sharing)
