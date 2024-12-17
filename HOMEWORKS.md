@@ -1,6 +1,6 @@
 # Homeworks
 
-Some homeworks were exceptional and I want to share them with you.
+Some students' homeworks were exceptional and I want to share them with their consent as inspiration for future students.
 
 ## Assignment 02: Image datasets
 
