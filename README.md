@@ -21,8 +21,9 @@ The course is currently at the full capacity (actually, we are already over the 
   1. [Lesson 07](lesson07/) (11.11.): Large Language Models, QLoRA, Chatgpt API
   1. [Lesson 08](lesson08/) (18.11.): ML for Biology Applications, Hyperparameter Optimization
   1. [Lesson 09](lesson09/) (25.11.): Exploratory Data Analysis
-  1. [Lesson 09](lesson10/) (2.12.): Image Generation With Stable Diffusion & FLUX.1
-  1. [Lesson 09](lesson11/) (9.12.): Time Series
+  1. [Lesson 10](lesson10/) (2.12.): Image Generation With Stable Diffusion & FLUX.1
+  1. [Lesson 11](lesson11/) (9.12.): Time Series
+  1. Lesson 12 (16.12.): Final Lesson - Discussion
 
 ## Homeworks
 

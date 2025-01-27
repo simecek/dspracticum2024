@@ -12,6 +12,7 @@
 * [Let’s Build our own GPT Model from Scratch with PyTorch](https://levelup.gitconnected.com/lets-build-our-own-gpt-model-from-scratch-with-pytorch-236a65a1fb54): code + comments for the video
 * [Andrej Karpathy: Let's reproduce GPT-2 (124M)](https://www.youtube.com/watch?v=l8pRSuU81PU)
 * [Stanford: Building Large Language Models (LLMs)](https://www.youtube.com/watch?v=9vM4p9NN0Ts)
+* [Visualizing transformers and attention](https://www.youtube.com/watch?v=KJtZARuO3JY)
 
 **Papers**:
 
