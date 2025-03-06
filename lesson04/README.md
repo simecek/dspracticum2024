@@ -7,6 +7,7 @@
 * Embeddings 
 * Explainability 
 * Backprogation
+* Putting it all together in PyTorch, https://www.eletreby.me/blog/training-loop#the-training-process-a-conceptual-overview
 
 **Assignment 04** (due to Oct 21, 8:30 AM):
 
